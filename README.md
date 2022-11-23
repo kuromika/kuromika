@@ -1,32 +1,27 @@
-<h1> :tangerine: Yahallo! <a href="https://twitter.com/mika__alpha">Mikan</a> here</h1>
+## :tangerine: Yahallo! <a href="https://twitter.com/mika__alpha">Mikan</a> here
 
-### I'm a self-taught web developer, currently learning full-stack development.
+<table>
+<tr>
+<td>
+I'm a self-taught web developer, currently learning full-stack development.
+<img src='https://i.pinimg.com/originals/20/fe/d7/20fed70ead3a2190c2859e024e825cb7.gif'  width='350' align='right'>
 
----
+- 🖥️ TypeScript, React, Redux, Next.js
 
-<img src='assets/inaba_hype.gif' align='top' width='400'>
+- :pencil2: HTML, CSS, JavaScript
 
-<a href='https://discord.com/users/1029464575604699166'>
-<img src='https://lanyard.cnrad.dev/api/1029464575604699166' align='top'>
-</a>
+- :black_joker: Jest
 
-- **Learning:**
+- :hammer_and_pick: Ubuntu, VS Code
+</td>
+</tr>
 
-  - React
-  - TypeScript
-  - Next.js
-  - Redux
-
-- **Comfortable:**
-  - HTML
-  - CSS
-  - JavaScript.
-- **Testing:**
-  - Jest
+<tr>
+<td>
 
 ---
 
- <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```text
 From: 16 November 2022 - To: 23 November 2022
@@ -39,3 +34,7 @@ Git        1 min           ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+</td>
+</tr>
+</table>

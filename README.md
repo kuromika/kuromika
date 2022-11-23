@@ -16,13 +16,11 @@
 
 - :pencil2: TypeScript, React, Redux, Next.js
 
-### I'm comfortable with:
+#### I'm comfortable with:
 
 - 🖥️ HTML, CSS, JavaScript
 
-- :black_joker: Jest
-
-- :hammer_and_pick: Ubuntu, VS Code
+- :hammer_and_pick: Jest
 
 <br clear='right'/>
 

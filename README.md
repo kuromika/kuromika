@@ -8,7 +8,9 @@
 
 <br clear='left'/>
 
+<a href= 'https://discord.com/users/1029464575604699166' target='_blank'>
 <img src='https://lanyard.cnrad.dev/api/1029464575604699166' width='400' align='right'>
+</a>
 
 ### Im currently working with:
 

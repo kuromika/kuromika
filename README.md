@@ -1,23 +1,16 @@
 ## :tangerine: Yahallo! <a href="https://twitter.com/mika__alpha">Mikan</a> here
 
-<table>
-<tr>
-<td>
-I'm a self-taught web developer, currently learning full-stack development.
-<img src='https://i.pinimg.com/originals/20/fe/d7/20fed70ead3a2190c2859e024e825cb7.gif'  width='350' align='right'>
+#### I'm a self-taught web developer.
 
-- 🖥️ TypeScript, React, Redux, Next.js
+<img src=''  width='350' align='right'>
 
-- :pencil2: HTML, CSS, JavaScript
+- :pencil2: TypeScript, React, Redux, Next.js
+
+- 🖥️ HTML, CSS, JavaScript
 
 - :black_joker: Jest
 
 - :hammer_and_pick: Ubuntu, VS Code
-</td>
-</tr>
-
-<tr>
-<td>
 
 ---
 
@@ -34,7 +27,3 @@ Git        1 min           ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-</td>
-</tr>
-</table>

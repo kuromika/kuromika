@@ -2,7 +2,7 @@
 
 #### I'm a self-taught web developer.
 
-<img src=''  width='350' align='right'>
+<img src='assets/inaba_hype.gif'  width='350' align='right'>
 
 - :pencil2: TypeScript, React, Redux, Next.js
 

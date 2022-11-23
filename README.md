@@ -12,7 +12,7 @@
 
 <a href="https://discord.com/users/1029464575604699166/" target="_blank" rel="nofollow"> <img src="https://lanyard-profile-readme.vercel.app/api/1029464575604699166?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right"></a>
 
-### Im currently working with:
+### Im currently working with / learning :
 
 - :pencil2: TypeScript, React, Redux, Next.js
 

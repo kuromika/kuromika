@@ -1,6 +1,4 @@
-## :tangerine: Yahallo! <a href="https://twitter.com/mika__alpha">Mikan</a> here
-
-#### I'm a self-taught web developer.
+## :tangerine: Yahallo! <a href="https://twitter.com/mika__alpha">Mikan</a> here, your favorite self-taught web developer.
 
 <p align='center'>
 

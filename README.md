@@ -6,6 +6,8 @@
 
 </p>
 
+---
+
 <br clear='left'/>
 
 <a href="https://discord.com/users/1029464575604699166" target="_blank" rel="nofollow">
@@ -23,6 +25,8 @@
 - :hammer_and_pick: Ubuntu, VS Code
 
 <br clear='right'/>
+
+---
 
 <!--START_SECTION:waka-->
 

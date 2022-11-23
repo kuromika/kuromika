@@ -4,10 +4,10 @@
 
 ---
 
-<img src='assets/inaba_hype.gif' align='right' width='400'>
+<img src='assets/inaba_hype.gif' align='top' width='400'>
 
 <a href='https://discord.com/users/1029464575604699166'>
-<img src='https://lanyard.cnrad.dev/api/1029464575604699166' align='right'>
+<img src='https://lanyard.cnrad.dev/api/1029464575604699166' align='top'>
 </a>
 
 - **Learning:**

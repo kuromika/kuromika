@@ -5,4 +5,15 @@
 ### I'm a self-taught web developer, currently trying to become the best at full-stack development.
 
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+
+```text
+From: 16 November 2022 - To: 23 November 2022
+
+Total Time: 2 hrs 35 mins
+
+Markdown   1 hr 58 mins    ███████████████████░░░░░░   76.45 %
+YAML       35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
+Git        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+```
+
+<!--END_SECTION:waka-->

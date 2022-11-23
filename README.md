@@ -4,6 +4,8 @@
 
 <img src='assets/inaba_hype.gif'  width='350' align='right'>
 
+<img src='https://lanyard.cnrad.dev/api/1029464575604699166' width='350' align = 'right'>
+
 - :pencil2: TypeScript, React, Redux, Next.js
 
 - 🖥️ HTML, CSS, JavaScript
@@ -11,8 +13,6 @@
 - :black_joker: Jest
 
 - :hammer_and_pick: Ubuntu, VS Code
-
----
 
 <!--START_SECTION:waka-->
 

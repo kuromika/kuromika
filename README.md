@@ -2,9 +2,17 @@
 
 #### I'm a self-taught web developer.
 
-<img src='assets/inaba_hype.gif'  width='350' align='right'>
+<p align='center'>
 
-<img src='https://lanyard.cnrad.dev/api/1029464575604699166' width='350' align = 'right'>
+<img src='https://i.pinimg.com/originals/20/fe/d7/20fed70ead3a2190c2859e024e825cb7.gif'  width='500'>
+
+</p>
+
+<br clear='left'/>
+
+<img src='https://lanyard.cnrad.dev/api/1029464575604699166' width='400' align='right'>
+
+### Im currently working with:
 
 - :pencil2: TypeScript, React, Redux, Next.js
 
@@ -13,6 +21,8 @@
 - :black_joker: Jest
 
 - :hammer_and_pick: Ubuntu, VS Code
+
+<br clear='right'/>
 
 <!--START_SECTION:waka-->
 

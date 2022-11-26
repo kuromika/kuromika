@@ -29,14 +29,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 24 November 2022
+From: 18 November 2022 - To: 25 November 2022
 
-Total Time: 5 hrs 3 mins
+Total Time: 5 hrs 19 mins
 
-Markdown     3 hrs 53 mins   ███████████████████▒░░░░░   77.11 %
-YAML         35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-TypeScript   32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Markdown     3 hrs 53 mins   ██████████████████▒░░░░░░   73.16 %
+TypeScript   49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+YAML         35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 

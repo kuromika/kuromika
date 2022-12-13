@@ -1,10 +1,5 @@
-## :tangerine: Yahallo! <a href="https://twitter.com/mika__alpha">Mikan</a> here, your favorite self-taught web developer.
+## 🐈‍⬛ どうも、 <a href="https://twitter.com/kuromika__">Kuromika</a> here.
 
-<p align='center'>
-
-<img src='https://i.pinimg.com/originals/20/fe/d7/20fed70ead3a2190c2859e024e825cb7.gif'  width='500'>
-
-</p>
 
 ---
 

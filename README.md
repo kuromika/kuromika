@@ -1,4 +1,4 @@
-## 🐈‍⬛ どうも、 <a href="https://twitter.com/kuromika__">Kuromika</a> here.
+## 🐈‍⬛ どうも、<a href="https://twitter.com/kuromika__">Kuromika</a> here.
 
 
 ---

@@ -9,7 +9,7 @@
 
 ### I'm currently learning :
 
-- :pencil2: TypeScript, React, Redux, Next.js
+- :pencil2: TypeScript, React, Next.js
 
 #### I'm comfortable with:
 

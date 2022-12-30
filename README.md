@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 December 2022 - To: 29 December 2022
+
+Total Time: 5 mins
+
+HTML   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
